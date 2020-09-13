@@ -51,14 +51,6 @@
 - [mini-redux 实现原理讲解 第二讲](https://github.com/mcuking/blog/issues/26)
 - [mini-redux 实现原理讲解 第三讲](https://github.com/mcuking/blog/issues/27)
 - [mini-redux 实现原理讲解 第四讲](https://github.com/mcuking/blog/issues/29)
-- [React 16.3(.0-alpha)新特性-译](https://github.com/mcuking/blog/issues/19)
-- [抢先看：Beyond React 16 - 译](https://github.com/mcuking/blog/issues/30)
-- [setState 的两种方式](https://github.com/mcuking/blog/issues/31)
-- [redux 性能优化 - reselect ](https://github.com/mcuking/blog/issues/32)
-
-### Vue 全家桶
-
-- [不吹不黑聊聊前端框架-尤雨溪](https://github.com/mcuking/blog/issues/2)
 
 ### HTTP
 
